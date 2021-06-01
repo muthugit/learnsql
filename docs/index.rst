@@ -6,8 +6,7 @@ This document will give you the basics of SQL query usage with some basic exampl
 Contents
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
+   :maxdepth: 3
 
-   index
    find_largest
+
