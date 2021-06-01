@@ -4,14 +4,8 @@ This document will give you the basics of SQL query usage with some basic exampl
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   index
+   examples/find_largest
