@@ -9,5 +9,5 @@ Examples
 .. toctree::
    :maxdepth: 3
 
-   examples/find_largest
+   examples/employee
 

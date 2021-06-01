@@ -45,3 +45,17 @@ Find third largest record without LIMIT
         FROM employee_info e2
         WHERE e1.salary < e2.salary
     )
+
+
+Select records where salary of employee is greater than emp_id 30
+--------------------------------------------------------------------------------
+
+.. code-block:: sql
+
+    SELECT *
+    FROM employee_info
+    WHERE salary > (
+        SELECT salary
+        FROM employee_info
+        WHERE emp_id = 30
+    )
