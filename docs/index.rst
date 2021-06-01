@@ -4,6 +4,7 @@ This document will give you the basics of SQL query usage with some basic exampl
 
 
 Examples
+---------------
 
 .. toctree::
    :maxdepth: 3
