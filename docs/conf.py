@@ -1,7 +1,6 @@
 
 import os
 import sys
-version = __version__
 
 # from setup import build_version
 print("Started")
