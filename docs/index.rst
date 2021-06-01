@@ -1,3 +1,3 @@
-.. code-block:: sql
-
-  SELECT * FROM demo
+Learn SQL by examples
+=================================
+This document will give you the basics of SQL query usage with some basic examples
