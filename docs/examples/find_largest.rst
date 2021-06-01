@@ -4,8 +4,8 @@ Find Largest
 This is finding largest
 
 Sample table
-**********************
-table name: `employee_info`
+----------------------------------------
+table name: *employee_info*
 
 .. code-block:: sql
 
@@ -29,6 +29,8 @@ Find third largest record using LIMIT
     ORDER BY salary
     LIMIT 2, 1
 
+Here the key is *LIMIT*
+
 
 Find third largest record without LIMIT
 ----------------------------------------
@@ -42,4 +44,4 @@ Find third largest record without LIMIT
         SELECT COUNT(DISTINCT salary)
         FROM employee_info e2
         WHERE e1.salary < e2.salary
-        )
+    )
