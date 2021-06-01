@@ -8,4 +8,4 @@ This document will give you the basics of SQL query usage with some basic exampl
    :caption: Contents:
 
    index
-   examples
+   examples/index
