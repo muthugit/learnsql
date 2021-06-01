@@ -24,7 +24,7 @@ print("Started")
 
 # -- Project information -----------------------------------------------------
 
-project = 'Learn SQL by examples'
+project = '🙇🏻‍♂️ Learn SQL  by examples'
 copyright = '2021, Muthupandian'
 author = 'Muthupandian'
 
