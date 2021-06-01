@@ -2,9 +2,5 @@ site_name: "Learn 👨🏻‍🏫 SQL by Examples"
 copyright: "Copyright &copy; 2021 Muthupandian Thangarajan"
 theme:
     name: readthedocs
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - rust
     font:
         code: Roboto Mono
