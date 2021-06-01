@@ -1,1 +1,0 @@
-# Learn SQL by examples
