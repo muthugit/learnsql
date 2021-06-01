@@ -4,7 +4,7 @@ Find some useful examples here
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    find_largest
